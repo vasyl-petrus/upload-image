@@ -33,6 +33,10 @@ body {
   height: 90px;
 }
 
+#drop-area.active .label-button {
+  pointer-events: none;
+}
+
 .label-button {
   display: inline-block;
   background: none;
@@ -163,6 +167,6 @@ input[type='file'] {
   border-radius: 5px;
 }
 
-.image-url{
-    text-align: center;
+.image-url {
+  text-align: center;
 }
