@@ -13,6 +13,7 @@ npm install
 ```bash
 npm start
 ```
+by default app running on http://localhost:1234/
 ### Stack
 - JavaScript
 - CSS
